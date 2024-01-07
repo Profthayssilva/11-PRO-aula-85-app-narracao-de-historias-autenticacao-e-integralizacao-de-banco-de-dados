@@ -1,3 +1,10 @@
-contextualização do código https://docs.google.com/document/d/16dMSA5i2FV3-0YLO9fISwy_HTtkfWEbyM18-KLa1DfU/edit?usp=sharing
+Aula PRO 85 contador de histórias AUTENTICAÇÃO E INTEGRAÇÃO DE BANCO DE DADOS
+
+Objetivo 
+● Usar a autenticação com email/senha para autenticar os
+usuários.
+● Registrar um novo usuário.
+● Integrar o banco de dados Firebase com o aplicativo.
+
 
 usamos: npx expo install firebase@8.10.0 
